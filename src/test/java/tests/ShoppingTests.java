@@ -17,6 +17,7 @@ public class ShoppingTests extends BaseTest {
      * 3. On cart page click continue
      * 4. Enter users information and continue
      * 5. Click finish
+     * just adding something
      *
      * Expected result:
      * 5. Verify that the item is bought and success message is shown
